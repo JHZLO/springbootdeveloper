@@ -32,6 +32,8 @@
 [[스프링 부트 3] 스프링 시큐리티 - 2 (로그인/로그아웃, 회원가입 구현하기)](https://jhzlo.tistory.com/37)
 <br>
 [[스프링 부트 3] JWT - 1 (토큰 기반 인증, JWT, 액세스 토큰, 리프레시 토큰)](https://jhzlo.tistory.com/38)
+<br>
+[[스프링 부트 3] JWT -  2 (JWT 서비스 구현, 리프레시 토큰, 토큰 필터)](https://jhzlo.tistory.com/39)
 
 <br><br><br>
 <sub><sub>출처: 스프링부트 3 백엔드 개발자 따라잡기 <GOLDEN RABBIT, 신선영><br>
