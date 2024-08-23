@@ -45,7 +45,7 @@
 <br>
 
 ### 🔖 OAuth2
-작성중...
+[[스프링 부트 3] OAuth2 - 1 (OAuth란?, 권한 부여 코드 타입 승인의 흐름, 쿠키란?, 토큰 발급받기)](https://jhzlo.tistory.com/41)
 <br>
 
 <br><br><br>
