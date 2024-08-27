@@ -3,6 +3,8 @@ package me.jhzlo.springbootdeveloper.config;
 import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import me.jhzlo.springbootdeveloper.config.jwt.TokenProvider;
+import me.jhzlo.springbootdeveloper.config.oauth.OAuth2AuthorizationRequestBasedOnCookieRepository;
+import me.jhzlo.springbootdeveloper.config.oauth.OAuth2SuccessHandler;
 import me.jhzlo.springbootdeveloper.config.oauth.OAuth2UserCustomService;
 import me.jhzlo.springbootdeveloper.repository.RefreshTokenRepository;
 import me.jhzlo.springbootdeveloper.service.UserService;
@@ -92,7 +94,7 @@ public class WebOAuthSecurityConfig {
 
     @Bean
     public OAuth2AuthorizationRequestBasedOnCookieRepository oAuth2AuthorizationRequestBasedOnCookieRepository(){
-        return new Oauth2AuthorizationRequestBasedOnCookieRepository();
+        return new OAuth2AuthorizationRequestBasedOnCookieRepository();
     }
 
     @Bean
