@@ -47,6 +47,8 @@
 ### 🔖 OAuth2
 [[스프링 부트 3] OAuth2 - 1 (OAuth란?, 권한 부여 코드 타입 승인의 흐름, 쿠키란?, 토큰 발급받기)](https://jhzlo.tistory.com/41)
 <br>
+[[스프링 부트 3] OAuth2 - 2 (스프링 시큐리티로 OAuth2 서비스 구현, 로직 세팅)](https://jhzlo.tistory.com/42)
+<br>
 
 <br><br><br>
 <sub><sub>출처: 스프링부트 3 백엔드 개발자 따라잡기 <GOLDEN RABBIT, 신선영><br>
